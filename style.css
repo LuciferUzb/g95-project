@@ -47,3 +47,81 @@
   background: #ffffff;
   border-radius: 3px;
 }
+
+
+.text01{
+  /* position: absolute; */
+  width: 200px;
+  height: 100px;
+  margin-top: 387px;
+  margin-left: 665px;
+
+  font-family: Cerebri Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  text-transform: uppercase;
+}
+.text02{
+  /* position: absolute; */
+  width: 684px;
+  height: 76px;
+  margin-left: 418px;
+  margin-top: -60px;
+  
+  /* 60 / Bold */
+  
+  font-family: Cerebri Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 76px;
+  text-align: center;
+}
+
+h3{
+  /* position: absolute; */
+  width: 29px;
+  height: 20px;
+  margin-left: 50px;
+
+  /* 16 / SemiBold */
+
+  font-family: Cerebri Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.h3{
+    display: flex;
+    margin-left: 630px;
+    
+}
+.middle{
+    margin-top: -100px;
+}
+.navbar02{
+    display: flex;
+    justify-content: space-between;
+    border: 3px solid greenyellow;
+    width: 70%;
+    margin-left: 230px;
+}
+
+.h22{
+  font-family: Cerebri Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  margin-left: 170px;
+}
+.left{
+    display: flex;
+    border: 1px solid red;
+    margin-left: -120px;
+}
