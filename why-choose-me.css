@@ -1,0 +1,87 @@
+
+
+
+.container-why{
+    width: auto;
+    height: 554px;
+    border: 1px solid transparent;
+    background: #F6F8F9;
+}
+
+.why-text{
+    margin-top: 100px;
+    font-family: Cerebri Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 38px;
+    text-align: center;
+    color: #0D263B;
+}
+
+.why-full-text{
+    margin-top: 10px;
+    font-family: Cerebri Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #696969;
+}
+
+.four-white{
+    display: flex;
+    height: 400px;
+    /* border: 1px solid greenyellow; */
+}
+
+.first-white{
+    margin-top: 50px;
+    margin-left: 90px;
+    width: 265px;
+    height: 256px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 50px rgba(13, 38, 59, 0.1);
+    border-radius: 3px;
+}
+
+.smile{
+    margin-top: 20px;
+    margin-left: 80px;
+    width: 102px;
+    height: 102px;
+    background: #0061DF;
+    border-radius: 50%;
+}
+
+.white-icon{
+    margin-top: 25px;
+    margin-left: 25px;
+    font-size: 55px;
+    color: white;
+    
+}
+
+.trust-text{
+    margin-top: 20px;
+    font-family: Cerebri Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 23px;
+    text-align: center;
+    color: #0D263B;
+
+}
+
+.trust-text02{
+    margin: 5px 30px;
+    font-family: Cerebri Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10px;
+    line-height: 24px;
+    text-align: center;
+    color: #696969;
+}
