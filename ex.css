@@ -1,0 +1,45 @@
+.container-explore{
+    width: auto;
+    height: 700px;
+    border: 1px solid red;
+}
+
+.explore-text{
+    margin-top: 100px;
+    text-align: center;
+    font-family: Cerebri Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 38px;
+    text-align: center;
+    color: #0D263B;
+}
+
+.explore-text02{
+    margin-top: 10px;
+    text-align: center;
+    font-family: Cerebri Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+
+    /* Text / Color */
+
+    color: #696969;
+}
+.rasmlar{
+    margin-top: 40px;
+    margin-left: 50px;
+    display: flex;
+}
+.picture{
+    margin-left: 30px;
+}
+
+.img{
+    width: 250px;
+    height: 300px;
+}
