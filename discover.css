@@ -1,0 +1,150 @@
+
+.discover {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    /* justify-content: center; */
+    /* height: 100%; */
+}
+
+.disc-title {
+    font-family: Cerebri Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 38px;
+    text-align: center;
+    color: #0D263B;
+
+    padding-top: 60px;
+
+}
+
+.disc-title-little {
+    font-family: Cerebri Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #696969;
+}
+
+.discover-contents {
+    display: flex;
+}
+
+.disc {
+    /* border: 1px solid black; */
+    position: relative;
+
+    width: 300px;
+    height: 400px;
+    margin-top: 40px;
+    margin-left: 20px;  
+   
+}
+
+.disc-btn1 {
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 18px;
+    font-size: 10px;
+    padding: 6px 12px;
+    border-radius: 4px;
+    border: none;
+
+    font-family: sans-serif;
+    font-style: normal;
+    color: white;
+    background-color: blue;
+    
+}
+.disc-btn2 {
+    position: absolute;
+    margin-top: 18px;
+    margin-left: 200px;
+    font-size: 10px;
+    padding: 6px 14px;
+    border-radius: 4px;
+    border: none;
+
+    
+    font-family: sans-serif;
+    font-style: normal;
+    color: white;
+    background-color: rgb(32, 31, 31);
+}
+
+.disc-img-little {
+    position: absolute;
+    border-radius: 50%;
+    margin-left: 250px;
+    margin-top: 180px;
+    border: 2px solid white;
+    box-shadow:0px 0px 7px 1px #000000;
+}
+
+.d-c-title {
+    font-family: Cerebri Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #0D263B;
+
+    margin-left: 20px;
+    margin-top: 9px;
+    margin-bottom: 6px;
+}
+.d-c-t-little {
+    font-family: Cerebri Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    color: #696969;
+
+    margin-left: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .disc-img {
+    background-repeat: no-repeat;
+    background-size: cover;
+
+} */
+
+
+
+
+
+
+
+
+
+
+
+
